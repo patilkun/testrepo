@@ -6,3 +6,8 @@ git status
 git commit -m "Inital Commit"
 git remote add origin git@github.com:patilkun/testrepo.git
 git push origin master
+
+after change to commit all files 
+
+git commit -a -m"modified Git commands"
+git push origin master
